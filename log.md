@@ -105,3 +105,13 @@ Check out these links:
 **Links:**
 
 [OAuth with ASP.NET Identity](https://channel9.msdn.com/Blogs/MVP-VisualStudio-Dev/OAuth-with-ASPNET-Identity)
+
+### Day 9: June 10, 2017
+**Today's Goal:** Build up a basic, working API to act as the Chorsie app's back end.
+
+**Thoughts:** I hadn't considered until now what the ultimate goal of this exercise is, but I envision a native mobile app for android and ios that tracks when household chores are completed and who was the last to perform that chore.
+
+**Today's Progress:** Set up users and user chore related info in a separate table from the identity users. Created a chore controller to modify chores, and I've modified to chore controller so only authorized users can edit chores associated with them. Looking like things are going in the right direction finally.
+
+**Links:**
+[Customizing profile information in ASP.NET Identity in VS 2013 templates](https://blogs.msdn.microsoft.com/webdev/2013/10/16/customizing-profile-information-in-asp-net-identity-in-vs-2013-templates/)
