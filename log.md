@@ -115,3 +115,12 @@ Check out these links:
 
 **Links:**
 [Customizing profile information in ASP.NET Identity in VS 2013 templates](https://blogs.msdn.microsoft.com/webdev/2013/10/16/customizing-profile-information-in-asp-net-identity-in-vs-2013-templates/)
+
+### Day 10: June 11, 2017
+**Today's Goal:** Complete the essential functions of the 'chores' controller.
+
+**Thoughts:** The chores controller will pull the user info from the identity, and only lets users modify chores that are associated with their account. I can see how in the future this might be troublesome because the chores and user associations are many-to-many... it could be that a user creates a chore, shares it with another user, and the second user deletes the chore that the first user created. That's not good.
+
+**Today's Progress:** The controller is mostly done, we'll need to add more of course to get chore sharing done correctly but it should be ok for testing purposes. Later, I'll need to look into Xamarin and how that part will work out.
+
+**Tomorrow:** Add a "createdby" field to chores so that second user doesn't delete another user's chores, the second user only removes the chore from their list. That should be fine.
