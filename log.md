@@ -124,3 +124,10 @@ Check out these links:
 **Today's Progress:** The controller is mostly done, we'll need to add more of course to get chore sharing done correctly but it should be ok for testing purposes. Later, I'll need to look into Xamarin and how that part will work out.
 
 **Tomorrow:** Add a "createdby" field to chores so that second user doesn't delete another user's chores, the second user only removes the chore from their list. That should be fine.
+
+### Day 11: June 12, 2017
+**Today's Goal:** Finish the Chores controller.
+
+**Today's Progress:** The chores controller should be 'good enough' to start mocking up with a front end. Will be looking at some Xamarin templates probably tomorrow.
+
+**Tomorrow:** Build a Xamarin app, make sure the environment is set up.
