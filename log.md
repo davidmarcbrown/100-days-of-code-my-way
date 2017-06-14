@@ -131,3 +131,10 @@ Check out these links:
 **Today's Progress:** The chores controller should be 'good enough' to start mocking up with a front end. Will be looking at some Xamarin templates probably tomorrow.
 
 **Tomorrow:** Build a Xamarin app, make sure the environment is set up.
+
+### Day 12: June 13, 2017
+**Today's Goal:**  Watch a Xamarin tut.
+
+**Links:**
+
+[a random video tutorial for xamarin](https://youtu.be/0I3Z_dSjw4w)
