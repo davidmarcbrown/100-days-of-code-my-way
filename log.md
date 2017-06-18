@@ -138,3 +138,11 @@ Check out these links:
 **Links:**
 
 [a random video tutorial for xamarin](https://youtu.be/0I3Z_dSjw4w)
+
+### Day 13: June 14, 2017
+**Today's Goal:** Build a Xamarin "hello world" app for Android.
+
+**Progress:** As usual, the emulators are too slow and I can't use the Intel hardware acceleration on Windows (I'm running an AMD processor). I could emulate it on the MacBook if I wanted to but I ran it on my wife's old phone and the build and deployment worked fine.
+
+**Tomorrow:** Find some example apps and poke around the source, try to build and run a more advanced template or example app.
+
