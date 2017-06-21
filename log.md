@@ -146,3 +146,11 @@ Check out these links:
 
 **Tomorrow:** Find some example apps and poke around the source, try to build and run a more advanced template or example app.
 
+### Day 14: June 20, 2017
+**Today's Goal:** Just try to get the XAML preview working.
+
+**Progress** This is mostly my fault for trying to open the main activitiy as though it were part of a view. 
+
+**Links:**
+
+[Getting Started with Xamarin Android Modifying the UI](https://www.youtube.com/watch?v=Zbngj6-W5Qo&feature=youtu.be)
