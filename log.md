@@ -149,8 +149,22 @@ Check out these links:
 ### Day 14: June 20, 2017
 **Today's Goal:** Just try to get the XAML preview working.
 
-**Progress** This is mostly my fault for trying to open the main activitiy as though it were part of a view. 
+**Progress:** This is mostly my fault for trying to open the main activitiy as though it were part of a view. 
 
 **Links:**
 
 [Getting Started with Xamarin Android Modifying the UI](https://www.youtube.com/watch?v=Zbngj6-W5Qo&feature=youtu.be)
+
+### Day 15: June 25, 2017
+**Today's Goal:** Get live-preview or a similar live update feature working to mock up the app's UI quickly.
+
+**Thoughts:** Live previewing requires the 'preview' version of VS. I already had the preview installed on the big drive but the VS install wizard won't let me use the same directory or modify the install. Even deleting the files in the previous install I cannot use that directory to install a new instance. Installing the Xamarin Preview extension is kind of inconvenient, too. Already missing the Ionic way.
+
+**Progress:** Managed to get VS preview on. Managed to get Xamarin Preview update and extension installed and enabled. Can get an app to run with Xamarin Live but nothing shows up. Xamarin Live is not compatible with AXML files, it only works with apps built with XAML files. All of the Android templates in VS preview use the AXML format...
+
+**Tomorrow:** Try replacing the AXML with a XAML layout.
+
+**Links:**
+
+[Xamarin Live Player Setup](https://developer.xamarin.com/guides/cross-platform/live/install/)
+
