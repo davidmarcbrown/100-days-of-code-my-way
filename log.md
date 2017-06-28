@@ -168,3 +168,10 @@ Check out these links:
 
 [Xamarin Live Player Setup](https://developer.xamarin.com/guides/cross-platform/live/install/)
 
+### Day 16: June 27, 2017
+**Today's Goal:** Still trying to get live-preview.
+
+**Thoughts:** This is basically built into Ionic. I'm regretting choosing Xamarin already.
+
+**Progress:** Live seems a bit buggy and the docs aren't that helpful. The support page has a link to stack overflow. I'll continue using Xamarin for now but this is pretty sad. XAML preview is working on VS 2017, I can work with that. Can build things and run on the Nexus.
+
