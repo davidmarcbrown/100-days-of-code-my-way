@@ -175,3 +175,13 @@ Check out these links:
 
 **Progress:** Live seems a bit buggy and the docs aren't that helpful. The support page has a link to stack overflow. I'll continue using Xamarin for now but this is pretty sad. XAML preview is working on VS 2017, I can work with that. Can build things and run on the Nexus.
 
+### Day 17: July 7, 2017
+**Today's Goal:** Create the project that will become the Android client.
+
+**Thoughts:** Forms doesn't really seem that bad, it's just getting off the ground is a bit frustrating.
+
+**Progress:** Coincidentally, I was able to get Xamarin live to work from a blank project.
+
+**Links:**
+
+[Mastering Xamarin.Forms Development, Part 1: Pages, Layout, and Navigation](https://mva.microsoft.com/en-US/training-courses/mastering-xamarinforms-development-part-1-pages-layout-and-navigation-17554?l=xyikQaUpD_8200115881)
