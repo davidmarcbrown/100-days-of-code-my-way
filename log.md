@@ -185,3 +185,15 @@ Check out these links:
 **Links:**
 
 [Mastering Xamarin.Forms Development, Part 1: Pages, Layout, and Navigation](https://mva.microsoft.com/en-US/training-courses/mastering-xamarinforms-development-part-1-pages-layout-and-navigation-17554?l=xyikQaUpD_8200115881)
+
+### Day 18: July 24, 2017
+**Today's Goal:** Working single player mode.
+
+**Thoughts:** A number of warnings and errors appear when I try to build the forms app. This may be related to some dependencies VS had me install so I could browse an example project (which also didn't build for a number of reasons). I can build and deploy a new project. Working off the default master/detail template.
+
+**Progress:** 
+
+**Links:**
+
+[Employee Directory](https://developer.xamarin.com/samples/xamarin-forms/EmployeeDirectory/)
+
