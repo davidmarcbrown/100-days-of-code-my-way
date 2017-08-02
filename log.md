@@ -197,3 +197,20 @@ Check out these links:
 
 [Employee Directory](https://developer.xamarin.com/samples/xamarin-forms/EmployeeDirectory/)
 
+### Day 19: July 26, 2017
+**Today's Goal:** Working single player mode.
+
+**Thoughts:** This is basically giving up on getting live update to work. Just deploying to device every time.
+
+**Progress:** Marginal.
+
+### Day 20: July 31, 2017
+**Today's Goal:** Working single player mode.
+
+**Progress:** Sqlite implementation review.
+
+### Day 21: August 1, 2017
+**Today's Goal:** Working single player mode.
+
+**Progress:** Implementing datastore to take the place of mockdatastore.
+
