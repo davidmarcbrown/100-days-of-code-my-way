@@ -214,3 +214,17 @@ Check out these links:
 
 **Progress:** Implementing datastore to take the place of mockdatastore.
 
+### Day 22: August 24, 2017
+**Today's Goal:** App uses SqlLite to persist chores locally.
+
+**Thoughts:** 
+
+**Progress:** Sqlite implementation in part: fleshed out class implementing IDataStore.
+
+### Day 23: August 25, 2017
+**Today's Goal:** App uses SqlLite to persist chores locally.
+
+**Thoughts:** 
+
+**Progress:** Persists new items to sqlite.
+
